@@ -9,7 +9,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bb61f94-532c-42a0-986d-2732e0dc1ab9" name="Changes" comment="Add auction system core components including entities, EJBs, and REST resources" />
+    <list default="true" id="0bb61f94-532c-42a0-986d-2732e0dc1ab9" name="Changes" comment="Add auction system core components including entities, EJBs, and REST resources">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ear-module/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ear-module/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ear-module/target/ear-module-1.0-SNAPSHOT.ear" beforeDir="false" afterPath="$PROJECT_DIR$/ear-module/target/ear-module-1.0-SNAPSHOT.ear" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ear-module/target/ear-module-1.0-SNAPSHOT/ejb-module.jar" beforeDir="false" afterPath="$PROJECT_DIR$/ear-module/target/ear-module-1.0-SNAPSHOT/ejb-module.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ear-module/target/ear-module-1.0-SNAPSHOT/web-module.war" beforeDir="false" afterPath="$PROJECT_DIR$/ear-module/target/ear-module-1.0-SNAPSHOT/web-module.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ear-module/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ear-module/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejb-module/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ejb-module/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejb-module/target/ejb-module-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/ejb-module/target/ejb-module-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejb-module/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ejb-module/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-module/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/web-module/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-module/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/web-module/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-module/target/web-module-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/web-module/target/web-module-1.0-SNAPSHOT.war" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -80,6 +94,7 @@
     &quot;Payara Server.Payara 6.27.0.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/shani/IdeaProjects/auction-system&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
@@ -201,6 +216,12 @@
       <workItem from="1749125798037" duration="176000" />
       <workItem from="1749126165589" duration="319000" />
       <workItem from="1749126495138" duration="587000" />
+      <workItem from="1749176512971" duration="767000" />
+      <workItem from="1749177839739" duration="409000" />
+      <workItem from="1749273392864" duration="521000" />
+      <workItem from="1749274974261" duration="394000" />
+      <workItem from="1749275591223" duration="99000" />
+      <workItem from="1749275785325" duration="75000" />
     </task>
     <task id="LOCAL-00001" summary="Add auction system core components including entities, EJBs, and REST resources">
       <option name="closed" value="true" />
